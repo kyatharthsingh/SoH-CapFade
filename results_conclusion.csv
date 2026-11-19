@@ -1,0 +1,4 @@
+Model,RMSE,R2_Score
+Linear Regression,0.0296,0.9761
+Polynomial Regression,0.0295,0.9763
+Random Forest,0.0104,0.997
